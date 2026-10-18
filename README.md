@@ -41,7 +41,7 @@ This repository contains the source code, documentation, and other resources for
 
 The proposed project structure and presentation are available at the following link:
 
-📄 **[View Proposed Structure & Hackathon Presentation (PDF)]()**
+📄 **[View Proposed Structure & Hackathon Presentation (PDF)](https://github.com/cranbru/A3-PS019-TC458/blob/main/A3-PS019-TC458_cipherHelix_AIORI-3.pdf)**
 
 ### 2. Team Introduction Video
 
