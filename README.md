@@ -64,4 +64,4 @@ Watch the team introduction video using the link below:
 
 ---
 
-*Developed by Team GRIDLOCK for the AIORI-3 Hackathon 2026.*
+*Developed by Team cipherHelix for the AIORI-3 Hackathon 2026.*
